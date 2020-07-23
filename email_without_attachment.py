@@ -10,7 +10,7 @@ email.starttls()
 
 # authentication
 # compiler gives an error for wrong credential.
-email.login("arora.nam21@gmail.com", "kjol#1897")
+email.login("arora.nam21@gmail.com", "psswd")
 
 # message to be sent
 message = "Your Passcode is :: 123456"
